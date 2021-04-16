@@ -18,6 +18,15 @@
           "zwei",
           "Item"
                 ]
+      },
+      {
+        "id": 2,
+        "name": "Drittes Item",
+        "description": "Das ist das dritte Item",
+        "tags": [
+          "drei",
+          "Item"
+                ]
       }
     ],
     "otherstuff":
