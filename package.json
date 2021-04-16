@@ -18,8 +18,15 @@
   },
   "homepage": "https://github.com/YankeeSierra97/yankee-api#readme",
   "dependencies": {
+    "@heroku/buildpack-registry": "^1.0.1",
+    "async-file": "^2.0.2",
+    "cli-ux": "^4.9.3",
+    "got": "^9.6.0",
     "heroku": "^7.52.0",
     "json-server": "^0.16.3",
-    "npm": "^7.10.0"
+    "npm": "^7.10.0",
+    "phoenix": "^1.5.8",
+    "plugins": "^0.4.2",
+    "true-myth": "^2.2.8"
   }
 }
