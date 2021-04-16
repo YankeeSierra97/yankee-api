@@ -1,0 +1,44 @@
+{ 
+    "content":
+    [
+      {
+        "id": 0,
+        "name": "Erstes Item",
+        "description": "Das ist das erste Item",
+        "tags": [
+          "eins",
+          "Item"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Zweites Item",
+        "description": "Das ist das zweite Item",
+        "tags": [
+          "zwei",
+          "Item"
+                ]
+      }
+    ],
+    "otherstuff":
+    [
+      {
+        "id": 3,
+        "name": "Drittes Item",
+        "description": "Das ist das dritte Item",
+        "tags": [
+          "dritt",
+          "Item"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Viertes Item",
+        "description": "Das ist das vierte Item",
+        "tags": [
+          "vier",
+          "Item"
+                ]
+      }
+    ]
+}
