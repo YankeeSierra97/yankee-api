@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/YankeeSierra97/yankee-api#readme",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "heroku": "^7.52.0",
+    "json-server": "^0.16.3",
+    "npm": "^7.10.0"
   }
 }
