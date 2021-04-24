@@ -27,6 +27,15 @@
           "drei",
           "Item"
                 ]
+      },
+      {
+        "id": 3,
+        "name": "Viertes Item",
+        "description": "Das ist das vierte Item",
+        "tags": [
+          "vier",
+          "Item"
+                ]
       }
     ],
     "otherstuff":
